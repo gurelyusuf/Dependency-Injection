@@ -1,2 +1,5 @@
 # Dependency-Injection
-Dependency Injection Swift App
+
+## Used Technologies
+- UIKit
+- Swinject
